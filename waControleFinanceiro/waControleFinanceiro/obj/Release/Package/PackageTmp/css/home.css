@@ -1,0 +1,109 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*
+    Cria a configuração de estilo da estrutura do site (topo, menu,conteúdo e radapé)
+*/
+header{
+	width: 80%;
+	height: 10em;
+	margin: auto;
+	padding: 0.6em;
+	background-color: #DFDFDF;
+	box-shadow: -3px 2px 20px 0px #2E2E2E;
+}
+
+nav{
+	width: 40%;
+	margin-top: 3.5em;
+	margin-right: 1em;
+	float: right;
+}
+
+main {
+    width: 80%;
+    min-height: 30em;
+    margin: 2em auto;
+    padding: 0.6em;
+    background-color: none;
+    box-shadow: -3px 2px 20px 0px #2E2E2E;
+}
+
+article {
+    width: auto;
+    min-height: 28em;
+    padding: 0.6em
+}
+/*
+h1 {
+    font-family: Arial;
+    font-size: 2em;
+    color: #272727;
+}
+
+*/
+header nav h1 {
+    font-family: Arial;
+    font-size: 1em;
+    color: #FFFFFF;
+}
+    
+footer {
+    width: auto;
+    height: 4em;
+    margin: 2em auto 0em;
+    padding: 0.6em;
+    background-color: #222222;
+}
+
+footer p {
+    font-family: Arial;
+    font-size: 1em;
+    line-height: 150%;
+    text-align: center;
+    padding: 0.2em;
+    color: #737373;
+}
+
+/*
+    Define a configuração da imagem do menu
+*/
+.linkhome{
+	width: 40%;
+	margin-left: 2em;
+}
+/*
+    Define a configuração dos botões (links) do menu
+*/
+.linkBotoes {
+    border: 1em;
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+/*
+.linkBotoes a:hover, a:active {
+    background-color: red;
+}
+    */
+
+.login {
+    width: 50%;
+    height: 80%;
+    margin: auto;
+    margin-top: 20%;
+    padding: 0.6em;
+    background-color: #DFDFDF;
+    box-shadow: -3px 2px 20px 0px #2E2E2E;
+}
+
+.gridView {
+    width: 80%;
+    margin: 2em auto;
+    padding: 0.6em;
+    box-shadow: -3px 2px 20px 0px #2E2E2E;
+}
+
+

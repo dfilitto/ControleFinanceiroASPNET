@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="mymoneyConnectionString-Web.config Connection String" description="mymoneyConnectionString A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="Data Source=den1.mssql5.gear.host;Initial Catalog=mymoney;Persist Security Info=True;User ID=mymoney;Password=Zh9cjzaL?_gS" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\danilo\.filitto\\source\\repos\\waControleFinanceiro\\waControleFinanceiro\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='mymoneyConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

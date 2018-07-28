@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteBackend.master.cs" Inherits="waControleFinanceiro.UI.SiteBackend" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Controle financeiro</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="css/folha_all.css">
+    <link rel="stylesheet" href="css/home.css">
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+	        <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/imagens/sistema/topocurso.png" PostBackUrl="~/Default.aspx" CssClass="linkhome" />
+	        <nav>
+		        <h1>Crie sites ASP.NET (webforms) utilizando C#</h1>
+                <asp:HyperLink ID="hlHome" runat="server" CssClass="linkBotoes" NavigateUrl="~/Default.aspx">Home</asp:HyperLink>
+                <asp:HyperLink ID="hlUsuario" runat="server" CssClass="linkBotoes" NavigateUrl="~/usuarios.aspx">Usuários</asp:HyperLink>
+                <asp:HyperLink ID="hlfinancas" runat="server" CssClass="linkBotoes" NavigateUrl="~/financas.aspx">Finanças</asp:HyperLink>
+                <asp:HyperLink ID="hlSair" runat="server" CssClass="linkBotoes" NavigateUrl="~/login.aspx">Sair</asp:HyperLink>
+	        </nav>	        
+	        
+	        </header>
+        <main>
+        <div>         
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        </main>
+        <footer>
+            <p>Site desenvolvido por <a href="https://www.dfilitto.com.br"> Danilo Filitto</a></p>
+        </footer>
+    </form>
+</body>
+</html>

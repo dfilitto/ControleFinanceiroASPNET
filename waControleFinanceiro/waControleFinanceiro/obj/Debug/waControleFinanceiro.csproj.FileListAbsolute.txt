@@ -1,0 +1,176 @@
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\waControleFinanceiro.dll.config
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\waControleFinanceiro.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\waControleFinanceiro.pdb
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csc.exe
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csc.exe.config
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csc.rsp
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csi.exe
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csi.exe.config
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csi.rsp
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.Win32.Primitives.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.AppContext.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Collections.Immutable.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Console.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Diagnostics.Process.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.Compression.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.FileSystem.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.Pipes.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Reflection.Metadata.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.AccessControl.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Claims.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Principal.Windows.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Threading.Thread.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.ValueTuple.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.XmlDocument.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.XPath.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\vbc.exe
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\vbc.exe.config
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\vbc.rsp
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\VBCSCompiler.exe
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\roslyn\VBCSCompiler.exe.config
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.csprojResolveAssemblyReference.cache
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.csproj.CoreCompileInputs.cache
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.csproj.CopyComplete
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.dll
+d:\danilo filitto\documents\Visual Studio Projects\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.pdb
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.Compression.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\VBCSCompiler.exe
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\waControleFinanceiro.dll.config
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\waControleFinanceiro.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\waControleFinanceiro.pdb
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csc.exe
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csc.exe.config
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csc.rsp
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csi.exe
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csi.exe.config
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csi.rsp
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.AppContext.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Console.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Claims.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Threading.Thread.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.ValueTuple.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\vbc.exe
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\vbc.exe.config
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\vbc.rsp
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.pdb
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danilo.filitto\source\repos\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\waControleFinanceiro.dll.config
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\waControleFinanceiro.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\waControleFinanceiro.pdb
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csc.exe
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csc.exe.config
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csc.rsp
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csi.exe
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csi.exe.config
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\csi.rsp
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.AppContext.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Console.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.Compression.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Claims.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Threading.Thread.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.ValueTuple.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\vbc.exe
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\vbc.exe.config
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\vbc.rsp
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\VBCSCompiler.exe
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.dll
+C:\Users\danilo.filitto\Desktop\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.pdb
+E:\SENAC\Arquivos\Programação\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.csprojResolveAssemblyReference.cache
+E:\SENAC\Arquivos\Programação\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.csproj.CoreCompileInputs.cache
+E:\SENAC\Arquivos\Programação\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.dll
+E:\SENAC\Arquivos\Programação\waControleFinanceiro\waControleFinanceiro\obj\Debug\waControleFinanceiro.pdb
